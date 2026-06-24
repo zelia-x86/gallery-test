@@ -2,12 +2,14 @@
   "title": "My gallery",
   "cover": "./cover.jpg",
   "images": 6,
+  "thumbnails": "./thumbnails",
+  "source": "./images",
   "files": [
-    "./andreea-popa-nT9ldla6nwg-unsplash.jpg",
-    "./chloe-YkGeGP4HxbY-unsplash.jpg",
-    "./karla-hernandez-S86B3ewPgvk-unsplash.jpg",
-    "./nattu-adnan-atSUvc1hMwk-unsplash.jpg",
-    "./sergey-shmidt-koy6FlCCy5s-unsplash.jpg",
-    "./tanya-barrow-jT0S179xe8o-unsplash.jpg"
+    "andreea-popa-nT9ldla6nwg-unsplash.jpg",
+    "chloe-YkGeGP4HxbY-unsplash.jpg",
+    "karla-hernandez-S86B3ewPgvk-unsplash.jpg",
+    "nattu-adnan-atSUvc1hMwk-unsplash.jpg",
+    "sergey-shmidt-koy6FlCCy5s-unsplash.jpg",
+    "tanya-barrow-jT0S179xe8o-unsplash.jpg"
   ]
 }
